@@ -16,5 +16,7 @@
 		<br>
 		<c:url value="/test.html" var="test" />
 		<a href="${test}">Click to enter. Because Test!!</a>
+		<p>
+		push!! success!!
 	</body>
 </html>
